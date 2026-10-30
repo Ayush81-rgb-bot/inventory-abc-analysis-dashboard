@@ -1,5 +1,7 @@
 # 🚚 Logistics KPI Dashboard (Portfolio Project)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Ayush81-rgb-bot/logistics-kpi-dashboard&branch=main&mainModule=app.py)
+
 An interactive, executive-grade Supply Chain & Logistics KPI Dashboard built using **Streamlit**, **Pandas**, and **Plotly**. 
 
 This application visualizes carrier performance, fleet capacity utilization, freight cost dynamics across corridors, and customer delivery compliance (OTIF).
@@ -8,6 +10,7 @@ This application visualizes carrier performance, fleet capacity utilization, fre
 ![Plotly](https://img.shields.io/badge/Plotly-5.20+-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
 
 ---
 
