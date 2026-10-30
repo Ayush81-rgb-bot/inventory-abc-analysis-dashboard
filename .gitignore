@@ -1,5 +1,7 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 .venv/
 venv/
 .env
+scratch/
+logistics_dashboard_data.csv
